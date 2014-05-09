@@ -102,7 +102,6 @@ ul.projects, ul.sponsors {
     margin-bottom: 10px;
     text-align: center; }
 
-
 .nav {
   z-index: 999;
   position: fixed;
@@ -220,6 +219,25 @@ p.hero-paragraph {
         color: #FFF;
         font-size: 1.3em; }
 
+#extra {
+  position: relative;
+  top: 25px; }
+
+.sponsors a {
+  color: #FFF; }
+
+.projects {
+  display: block;
+  margin-bottom: 15px; }
+
+.project .grid-75 h3 {
+  text-align: left;
+  font-weight: 700; }
+.project .grid-75 p {
+  font-size: 1.2em; }
+.project img {
+  margin-top: 20px; }
+
 .contact-desc {
   font-size: 1.3em;
   line-height: 1.4em;
@@ -232,7 +250,7 @@ p.hero-paragraph {
     max-width: 90%;
     margin-bottom: 15px; }
   .contact h2 {
-    padding-top: 20px; }
+    padding-top: 35px; }
   .contact .grid-25 {
     text-align: left; }
     .contact .grid-25 a {

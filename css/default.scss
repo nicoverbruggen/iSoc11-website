@@ -236,6 +236,9 @@ p.hero-paragraph{
   h2{
     padding-bottom: 25px;
   }
+  img{
+
+	}
 }
 
 .code9000{
@@ -273,6 +276,36 @@ p.hero-paragraph{
   }
 }
 
+#extra{
+  position: relative;
+  top: 25px;
+  }
+
+.sponsors{
+  a{
+	color: #FFF;
+	}
+  }
+
+.projects{
+  display: block;
+  margin-bottom: 15px;
+  }
+.project{
+  .grid-75{
+	h3{
+	  text-align: left;
+	  font-weight: 700;
+	  }
+	p{
+	  font-size: 1.2em;
+	  }
+	}
+  img{
+	margin-top: 20px;
+	}
+  }
+
 .contact-desc{
   font-size: 1.3em;
   line-height: 1.4em;
@@ -289,7 +322,7 @@ p.hero-paragraph{
 
   }
   h2{
-    padding-top: 20px;
+    padding-top: 35px;
   }
   padding-bottom: 35px;
   .grid-25{
